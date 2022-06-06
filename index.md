@@ -1,7 +1,17 @@
-## My Quick Static Site
+### Navigation
 
-This is a site I build with gh-pages. **Wow**
+This is a quick page I built to help navigate between **logs** and **reflections** over the course. 
 
-It reads [markdown](https://www.markdownguide.org/) and turns it into html.
+## Logs
 
-![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
+[*part one*](https://github.com/galahaut/dhmaterial/blob/main/part-one/log.md)
+[*part two*](https://github.com/galahaut/dhmaterial/blob/main/part-two/log.md)
+~~[*part three*]~~ **Coming soon!**
+~~[*part four*]~~ **Coming soon-ish!**
+
+## Reflections
+[*part one*](https://github.com/galahaut/dhmaterial/blob/main/part-one/reflection.md)
+[*part two*](https://github.com/galahaut/dhmaterial/blob/main/part-two/reflection.md)
+~~[*part three*]~~ **Coming soon!**
+~~[*part four*]~~ **Coming soon-ish!**
+
